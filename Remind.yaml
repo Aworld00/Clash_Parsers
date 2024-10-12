@@ -123,7 +123,7 @@ parsers: # array
         #开启代理
         - RULE-SET,Github,✈️ 开启代理
         - RULE-SET,blackmatrix7_PROXY_Classical,✈️ 开启代理
-        - RULE-SET,Small Mix,✈️ 开启代理
+        - RULE-SET,Small_Rules,✈️ 开启代理
         #局域网
         - GEOIP,CN,🀄 关闭代理,no-resolve
         #其他
@@ -201,11 +201,11 @@ parsers: # array
           interval: 86400
       # > 海外媒体
       # > 海外小平台
-        Small Mix:
+        Small_Rules:
           type: http
           behavior: classical
-          url: https://cdn.jsdelivr.net/gh/Aworld00/clash-a@refs/heads/main/GOOGLE_RULE-SET/%F0%9F%A7%A9Small%20Mix.yaml
-          path: ./Rules/Small Mix
+          url: https://cdn.jsdelivr.net/gh/Aworld00/Clash_Parsers@refs/heads/master/Small_Rules/Small_Rules.yaml
+          path: ./Rules/Small_Rules
           interval: 86400
       # > 国内视频
         BilibiliHMT:
@@ -243,7 +243,7 @@ parsers: # array
         Design:
           type: http
           behavior: classical
-          url: https://cdn.jsdelivr.net/gh/Aworld00/clash-a@jojo/GOOGLE_RULE-SET/Design.yaml
+          url: https://cdn.jsdelivr.net/gh/Aworld00/Clash_Parsers@refs/heads/master/China_Rules/Design.yaml
           path: ./Rules/Design
           interval: 86400
       # > 知名品牌
