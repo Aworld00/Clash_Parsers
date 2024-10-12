@@ -1,4 +1,9 @@
 payload:
+# > Octane渲染器破解
+  - PROCESS-NAME,Cinema 4D
+  - PROCESS-NAME,Cinema 4D.exe
+  - PROCESS-NAME,YellowStar
+  - PROCESS-NAME,YellowStar.exe
 # > 网络教育
   - DOMAIN-SUFFIX,2qj.com #巧匠课堂
   - DOMAIN-SUFFIX,yiihuu.com #翼狐
