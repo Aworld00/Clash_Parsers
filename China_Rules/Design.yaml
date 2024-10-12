@@ -1,5 +1,5 @@
 payload:
-  # > 网络教育
+# > 网络教育
   - DOMAIN-SUFFIX,2qj.com #巧匠课堂
   - DOMAIN-SUFFIX,yiihuu.com #翼狐
   - DOMAIN-SUFFIX,huke88.com #虎课网
@@ -15,25 +15,24 @@ payload:
   - DOMAIN-SUFFIX,uiiiuiii.com #uiiiuiii教育
   - DOMAIN-SUFFIX,gogoup.com #站酷高高手
   - DOMAIN-SUFFIX,motioner.tw #motioner台湾设计
-  # > 设计网站
+# > 设计网站
   - DOMAIN-SUFFIX,ggac.com #GGAC数字艺术平台
   - DOMAIN-SUFFIX,zcool.com.cn #站酷
   - DOMAIN-SUFFIX,zhisheji.com #致设计
   - DOMAIN-SUFFIX,digitaling.com #数英
   - DOMAIN-SUFFIX,uisdc.com #优设
   - DOMAIN-SUFFIX,puxiang.com #普象工业设计网
-  # > 软件严选
+# > 软件严选
   - DOMAIN-SUFFIX,52pojie.com #52破解
-  - DOMAIN-SUFFIX,gaoding #搞定设计
+  - DOMAIN-SUFFIX,gaoding.com #搞定设计
   - DOMAIN-SUFFIX,oft.macxf.com #软件先锋
   - DOMAIN-SUFFIX,appinn.com #小众软件
   - DOMAIN-SUFFIX,gfxcamp.com #智齿一号
   - DOMAIN-SUFFIX,ghxi.com #果壳剥壳
   - DOMAIN-SUFFIX,go.itab.link #iTab 游览标签页
   - DOMAIN-SUFFIX,xkonglong.com #小恐龙Word排版助手
-  # > 论坛
+# > 论坛
   - DOMAIN-SUFFIX,cgfxw.com #CG白嫖网
-  - DOMAIN-SUFFIX,chenwenb.com #大元资源网
   - DOMAIN-SUFFIX,uusjzy.com #悠悠设计资源网
   - DOMAIN-SUFFIX,zycku.com #CG资源仓库网
   - DOMAIN-SUFFIX,c4dsky.com #书生CG资源网
@@ -41,7 +40,7 @@ payload:
   - DOMAIN-SUFFIX,modown.cn #魔顿CG资源网
   - DOMAIN-SUFFIX,lookae.com #lookae特效网
   - DOMAIN-SUFFIX,btbat.com #R站设计
-  # > 模型网
+# > 模型网
   - DOMAIN-SUFFIX,cgmodel.com #CG模型网
   - DOMAIN-SUFFIX,3d66.com #3D溜溜网
   - DOMAIN-SUFFIX,ltpmx.com #立体派
@@ -51,15 +50,15 @@ payload:
   - DOMAIN-SUFFIX,mobangku.com #魔棒库
   - DOMAIN-SUFFIX,c4d.cn #C4D之家
   - DOMAIN-SUFFIX,om.cn #欧模网
-  # > 摄影
+# > 摄影
   - DOMAIN-SUFFIX,xinpianchang.com #新片场
   - DOMAIN-SUFFIX,poco.cn #POCO摄影论坛
   - DOMAIN-SUFFIX,skypixel.com #全球航拍摄影社区
   - DOMAIN-SUFFIX,dili360.com #中国国家地理
   - DOMAIN-SUFFIX,fengniao.com #蜂鸟网
-  # > 绘画
+# > 绘画
   - DOMAIN-SUFFIX,gracg.com #涂鸦王国
-  # > 字体网站
+# > 字体网站
   - DOMAIN-SUFFIX,ziticq.com #字体传奇
   - DOMAIN-SUFFIX,zitijia.com #字体家
   - DOMAIN-SUFFIX,izihun.com #字魂网
@@ -70,7 +69,7 @@ payload:
   - DOMAIN-SUFFIX,ifonts.com #以方
   - DOMAIN-SUFFIX,100font.com #免费商用字体
   - DOMAIN-SUFFIX,fontstorage.com #英文免费字体
-  # > 图库
+# > 图库
   - DOMAIN-SUFFIX,tuchong.com #图虫
   - DOMAIN-SUFFIX,hellorf.com #站酷海洛
   - DOMAIN-SUFFIX,iconfont.cn #阿里巴巴矢量库
@@ -80,8 +79,8 @@ payload:
   - DOMAIN-SUFFIX,58pic.com #千图网
   - DOMAIN-SUFFIX,90sheji.com #90设计
   - DOMAIN-SUFFIX,huaban.com #花瓣网
-  - DOMAIN-SUFFIX,chuangkit #创客贴
+  - DOMAIN-SUFFIX,chuangkit.com #创客贴
   - DOMAIN-SUFFIX,gtn9.com #古田路9号，版权设计
-  # > 文档
+# > 文档
   - DOMAIN-SUFFIX,shimo.im #石墨文档
   - DOMAIN-SUFFIX,badjs.weixinbridge.com #微信公众号文章
