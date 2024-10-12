@@ -1,5 +1,6 @@
 payload:
-# > Octane渲染器破解
+# > Octane_2023渲染器破解
+# > 要开TUN模式,但开TUN的话，这规则就没任何用处，不开TUN打不开，或者关闭系统代理再打开渲染器，再打开系统代理。（这里配置就是多余的）
   - PROCESS-NAME,Cinema 4D
   - PROCESS-NAME,Cinema 4D.exe
   - PROCESS-NAME,YellowStar
