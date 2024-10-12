@@ -1,9 +1,4 @@
 payload:
-# > Octane渲染器破解
-  - PROCESS-NAME,Cinema 4D,🀄 关闭代理,
-  - PROCESS-NAME,Cinema 4D.exe,🀄 关闭代理,
-  - PROCESS-NAME,YellowStar,🀄 关闭代理,
-  - PROCESS-NAME,YellowStar.exe,🀄 关闭代理,
 # > 番剧种子
   - DOMAIN-SUFFIX,comicat.org #漫猫动漫
   - DOMAIN-SUFFIX,mikanani.me #蜜柑计划
