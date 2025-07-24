@@ -11,33 +11,15 @@ https://cdn.jsdelivr.net/gh/Aworld00/Clash_Parsers@refs/heads/master/Rules/Baa_P
 Baa直连
 https://cdn.jsdelivr.net/gh/Aworld00/Clash_Parsers@refs/heads/master/Rules/Baa_CN.yaml
 #### 一些图标
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Adblock.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Airport.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/America.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Auto.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Balance.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Catnet.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/China.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Fallback.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Final.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Game.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Game_2.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/GitHub.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Global.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Global_2.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Google.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Hong_Kong.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Ip.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Ip_2.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Match.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Reject.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/SSID.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Select.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Shadowrocket.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Singapore.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Steam.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/TaiWan.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Telegram.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/YouTube.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/adguard.png)
-![](https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/bilibili.png)
+| 图标 | 图标 | 图标 |
+|------|------|------|
+| <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Adblock.png" width="150" height="150" alt="Adblock"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Airport.png" width="150" height="150" alt="Airport"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/America.png" width="150" height="150" alt="America"> |
+| <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Auto.png" width="150" height="150" alt="Auto"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Balance.png" width="150" height="150" alt="Balance"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Catnet.png" width="150" height="150" alt="Catnet"> |
+| <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/China.png" width="150" height="150" alt="China"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Fallback.png" width="150" height="150" alt="Fallback"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Final.png" width="150" height="150" alt="Final"> |
+| <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Game.png" width="150" height="150" alt="Game"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Game_2.png" width="150" height="150" alt="Game_2"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/GitHub.png" width="150" height="150" alt="GitHub"> |
+| <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Global.png" width="150" height="150" alt="Global"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Global_2.png" width="150" height="150" alt="Global_2"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Google.png" width="150" height="150" alt="Google"> |
+| <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Hong_Kong.png" width="150" height="150" alt="Hong_Kong"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Ip.png" width="150" height="150" alt="Ip"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Ip_2.png" width="150" height="150" alt="Ip_2"> |
+| <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Match.png" width="150" height="150" alt="Match"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Reject.png" width="150" height="150" alt="Reject"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/SSID.png" width="150" height="150" alt="SSID"> |
+| <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Select.png" width="150" height="150" alt="Select"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Shadowrocket.png" width="150" height="150" alt="Shadowrocket"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Singapore.png" width="150" height="150" alt="Singapore"> |
+| <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Steam.png" width="150" height="150" alt="Steam"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/TaiWan.png" width="150" height="150" alt="TaiWan"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/YouTube.png" width="150" height="150" alt="YouTube"> |
+| <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/adguard.png" width="150" height="150" alt="adguard"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/bilibili.png" width="150" height="150" alt="bilibili"> | <img src="https://github.com/Aworld00/Clash_Parsers/blob/master/Icon/Telegram.png" width="150" height="150" alt="Telegram"> |
