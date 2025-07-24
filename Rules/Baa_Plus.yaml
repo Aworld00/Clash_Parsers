@@ -1,0 +1,46 @@
+payload:
+# > 番剧种子
+  - DOMAIN-SUFFIX,comicat.org #漫猫动漫
+  - DOMAIN-SUFFIX,mikanani.me #蜜柑计划
+  - DOMAIN-SUFFIX,bangumi.moe #萌番组
+  - DOMAIN-SUFFIX,kisssub.org #爱恋动漫
+  - DOMAIN-SUFFIX,share.dmhy.org #动漫花园
+  - DOMAIN-SUFFIX,acg.rip #ACG动漫
+# > 国外付费图片网站
+  - DOMAIN-SUFFIX,flickr.com #Flickr
+  - DOMAIN-SUFFIX,123rf.com #123RF
+  - DOMAIN-SUFFIX,shutterstock.com #Shutterstock
+  - DOMAIN-SUFFIX,stock.adobe.com #Adobe stock
+  - DOMAIN-SUFFIX,depositphotos.com #Depositphotos
+  - DOMAIN-SUFFIX,dreamstime.com #Dreamstime
+  - DOMAIN-SUFFIX,istockphoto.com #Istockphoto
+  - DOMAIN-SUFFIX,vectorstock.com #Vectorstock
+# > 免办税图片
+  - DOMAIN-SUFFIX,pixabay.com
+  - DOMAIN-SUFFIX,picjumbo.com
+  - DOMAIN-SUFFIX,stocksnap.io
+  - DOMAIN-SUFFIX,pixelsquid.com
+# > 国外素材网站
+  - DOMAIN-SUFFIX,artstation.com #A站
+  - DOMAIN-SUFFIX,midjourney.com #AI
+  - DOMAIN-SUFFIX,dribbble.com #追波
+  - DOMAIN-SUFFIX,pinterest.com #国外花瓣
+  - DOMAIN-SUFFIX,pixiv.net #P站插画
+  - DOMAIN-SUFFIX,behance.net # B焊死
+# > 国外AI常用网站
+  - DOMAIN-SUFFIX,civitai.com #AI-C站，全球最大的模型平台
+  - DOMAIN-SUFFIX,huggingface.co #大模型下载
+  - DOMAIN-SUFFIX,comfy.icu #在线调用现有的平台工作流
+  - DOMAIN-SUFFIX,supagruen.github.io #艺术家风格网站-训练
+  - DOMAIN-SUFFIX,openart.ai #公开工作流
+  - DOMAIN-SUFFIX,openai.com #GPT-4
+# > 国外设计论坛
+  - DOMAIN-SUFFIX,maxon.net #C4D官网
+  - DOMAIN-SUFFIX,sidefx.com #Houdini官网
+  - DOMAIN-SUFFIX,blender.org #Blender
+  - DOMAIN-SUFFIX,otoy.com #OC官网
+# > 国外不明网站
+  - DOMAIN-SUFFIX,imgix.com
+  - DOMAIN-SUFFIX,google-analytics.com
+# > 国外乱七八糟
+  - DOMAIN-SUFFIX,klei.com
