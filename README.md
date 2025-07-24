@@ -5,10 +5,10 @@
 ### clash_verge
 ![](https://github.com/Aworld00/Clash_Parsers/blob/master/Image/clash_verge_rendering.png)
 #### 规则地址
-Baa代理
+Baa_Plus代理
 https://cdn.jsdelivr.net/gh/Aworld00/Clash_Parsers@refs/heads/master/Rules/Baa_Plus.yaml
 
-Baa直连
+Baa_CN直连
 https://cdn.jsdelivr.net/gh/Aworld00/Clash_Parsers@refs/heads/master/Rules/Baa_CN.yaml
 #### 一些图标
 | 图标 | 图标 | 图标 | 图标 | 图标 | 图标 |
