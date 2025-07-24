@@ -43,4 +43,5 @@ payload:
   - DOMAIN-SUFFIX,imgix.com
   - DOMAIN-SUFFIX,google-analytics.com
 # > 国外乱七八糟
-  - DOMAIN-SUFFIX,klei.com
+  - DOMAIN-SUFFIX,klei.com #科雷游戏
+  - DOMAIN-SUFFIX,jsdelivr.com #加速Github地址
