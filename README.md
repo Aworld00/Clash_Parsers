@@ -1,4 +1,4 @@
-# 配置文件预处理
+# 预防老年痴呆
 
 ### clash效果图
 ![](https://github.com/Aworld00/Clash_Parsers/blob/master/Image/clash_rendering.png)
