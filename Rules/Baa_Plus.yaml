@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,kisssub.org #爱恋动漫
   - DOMAIN-SUFFIX,share.dmhy.org #动漫花园
   - DOMAIN-SUFFIX,acg.rip #ACG动漫
-  - DOMAIN-SUFFIX,anime.girigirilove.com #girigirilove动漫
+  - DOMAIN-SUFFIX,girigirilove.com #giri番剧
 # > 国外付费图片网站
   - DOMAIN-SUFFIX,flickr.com #Flickr
   - DOMAIN-SUFFIX,123rf.com #123RF
