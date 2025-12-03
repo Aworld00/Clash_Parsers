@@ -137,5 +137,9 @@ payload:
   - DOMAIN-SUFFIX,zzbtool.com
   - DOMAIN-SUFFIX,571xz.com
   - DOMAIN-SUFFIX,sso.jd.hk
+  - DOMAIN-KEYWORD, adobe, REJECT
+  - DOMAIN-SUFFIX,adobe.com,REJECT
+  - DOMAIN-SUFFIX,adobe.io,REJECT
+    
 
 
