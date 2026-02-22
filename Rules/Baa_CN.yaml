@@ -41,8 +41,6 @@ payload:
   - DOMAIN-SUFFIX,go.itab.link #iTab 游览标签页
   - DOMAIN-SUFFIX,xkonglong.com #小恐龙Word排版助手
 # > 论坛
-  - DOMAIN-SUFFIX,cgfxw.com #CG白嫖网
-  - DOMAIN-SUFFIX,cgfxw.net #CG白嫖网
   - DOMAIN-SUFFIX,uusjzy.com #悠悠设计资源网
   - DOMAIN-SUFFIX,zycku.com #CG资源仓库网
   - DOMAIN-SUFFIX,c4dsky.com #书生CG资源网
@@ -141,5 +139,6 @@ payload:
   - DOMAIN-SUFFIX,adobe.com,REJECT
   - DOMAIN-SUFFIX,adobe.io,REJECT
     
+
 
 
