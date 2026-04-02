@@ -3,4 +3,4 @@ payload:
   - DOMAIN-SUFFIX,claude.com #Claude
   - DOMAIN-SUFFIX,genspark.ai #Genspark
   - DOMAIN-SUFFIX,chatgpt.com #GPT
-  - DOMAIN-SUFFIX,openclaw.ai #龙虾
+  - DOMAIN-SUFFIX,openclaw.ai #龙虾 
