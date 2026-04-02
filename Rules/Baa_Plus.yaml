@@ -35,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,supagruen.github.io #艺术家风格网站-训练
   - DOMAIN-SUFFIX,openart.ai #公开工作流
   - DOMAIN-SUFFIX,openai.com #GPT-4
+  - DOMAIN-SUFFIX,flowith.io #香蕉第三方在线平台
 # > 国外设计论坛
   - DOMAIN-SUFFIX,maxon.net #C4D官网
   - DOMAIN-SUFFIX,sidefx.com #Houdini官网
