@@ -49,3 +49,4 @@ payload:
   - DOMAIN-SUFFIX,jsdelivr.com #加速Github地址
   - DOMAIN-SUFFIX,anno1800.modhub.io #纪元1800
   - PROCESS-NAME,Anno1800.exe #纪元1800
+  - DOMAIN-SUFFIX,lovart.ai #lovart
